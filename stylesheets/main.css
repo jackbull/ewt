@@ -1,0 +1,654 @@
+html {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+body {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+div {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+span {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h2 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h3 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h4 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h5 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+h6 {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+p {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+blockquote {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+a {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+abbr {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+acronym {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+address {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+big {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+cite {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+code {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+del {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dfn {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+em {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+img {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ins {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+kbd {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+small {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+strike {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+strong {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+sub {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tt {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dl {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dt {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+dd {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ol {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+ul {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+li {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+form {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+label {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+table {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+caption {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tbody {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tfoot {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+thead {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+tr {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+th {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+td {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+embed {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+video {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline; font-size-adjust: inherit; font-stretch: inherit;
+}
+article {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+aside {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+details {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+figcaption {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+figure {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+footer {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+header {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+hgroup {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+menu {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+nav {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+section {
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+blockquote::before {
+	content: none;
+}
+blockquote::after {
+	content: none;
+}
+q::before {
+	content: none;
+}
+q::after {
+	content: none;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+a {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.feature a {
+	color: rgb(53, 146, 221);
+}
+.feature a:hover {
+	color: rgb(96, 173, 235);
+}
+body {
+	color: rgb(51, 51, 51); line-height: 1; font-family: "Segoe WP", "Segoe UI", "Helvetica Neue", "Arial", sans-serif; background-color: rgb(37, 37, 37); -webkit-font-smoothing: antialiased;
+}
+.animate-in {
+	transition:0.6s ease-in-out; transform: translateZ(0px); -webkit-transition: all 0.6s ease-in-out 0s; -moz-transition: all 0.6s ease-in-out 0s; -webkit-transform: translateZ(0); -moz-transform: translateZ(0);
+}
+.pre-animate {
+	opacity: 0; transform: translateX(25px); -webkit-transform: translateX(25px); -moz-transform: translateX(25px);
+}
+.features-sync > .pre-animate {
+	transform: scale(0.9); -webkit-transform: scale(0.9); -moz-transform: scale(0.9);
+}
+.footer-download .pre-animate {
+	transform: scale(0.9); -webkit-transform: scale(0.9); -moz-transform: scale(0.9);
+}
+.pre-animate.branches-popover {
+	transform: scale(0.9); -webkit-transform: scale(0.9); -moz-transform: scale(0.9);
+}
+.pre-animate.repo-create {
+	transform: scale(0.9); -webkit-transform: scale(0.9); -moz-transform: scale(0.9);
+}
+#page {
+	background-color: rgb(255, 255, 255);
+}
+.header {
+	padding: 12px 0px; text-align: center; position: relative; background-color: rgb(53, 146, 221);
+}
+h1 {
+	margin: 14px 0px 0px; padding: 0px; border: 0px currentColor; border-image: none; text-align: center; vertical-align: baseline;
+}
+h1 > a {
+	background: url("../images/logo.png") no-repeat 0px 0px / 182px 21px; width: 182px; height: 21px; text-align: left; text-indent: -9999px; display: inline-block;
+}
+.nav {
+	text-align: center; font-size: 13px; margin-top: 8px; cursor: default;
+}
+.section-help {
+	margin-bottom: 24px;
+}
+.section-release-notes {
+	margin-bottom: 24px;
+}
+.section-eula {
+	margin-bottom: 24px;
+}
+.nav > li {
+	margin: 0px 6px; display: inline;
+}
+.nav-item {
+	transition:opacity 0.2s ease-in-out; position: relative; opacity: 0.6; -webkit-transition: opacity 0.2s ease-in-out 0s; -moz-transition: opacity 0.2s ease-in-out 0s;
+}
+.nav-item::before {
+	transition:0.2s ease-in-out; width: 100%; height: 1px; bottom: -2px; position: absolute; z-index: 10; content: ""; transform: scaleX(0); background-color: rgb(255, 255, 255); -webkit-transition: all 0.2s ease-in-out 0s; -moz-transition: all 0.2s ease-in-out 0s; -webkit-transform: scaleX(0); -moz-transform: scaleX(0);
+}
+.nav-item:hover {
+	opacity: 1;
+}
+.nav-item:hover::before {
+	transform: scaleX(1); -webkit-transform: scaleX(1); -moz-transform: scaleX(1);
+}
+.section-home > li > .nav-home {
+	padding: 0px; opacity: 1;
+}
+.section-help > li > .nav-help {
+	padding: 0px; opacity: 1;
+}
+.section-release-notes > li > .nav-release-notes {
+	padding: 0px; opacity: 1;
+}
+.section-home > li > .nav-home::before {
+	opacity: 1; transform: scaleX(1); -webkit-transform: scaleX(1); -moz-transform: scaleX(1);
+}
+.section-help > li > .nav-help::before {
+	opacity: 1; transform: scaleX(1); -webkit-transform: scaleX(1); -moz-transform: scaleX(1);
+}
+.section-release-notes > li > .nav-release-notes::before {
+	opacity: 1; transform: scaleX(1); -webkit-transform: scaleX(1); -moz-transform: scaleX(1);
+}
+.download-nav {
+	margin: 0px 0px 97px;
+}
+.eula {
+	margin: 8px auto; line-height: 1.5;
+}
+.unsupported-os .version {
+	display: none;
+}
+.version {
+	color: rgba(255, 255, 255, 0.75); font-size: 13px; font-weight: 600; display: block;
+}
+.unsupported-os .details-unsupported {
+	display: block;
+}
+.details-unsupported {
+	margin: 40px auto 97px; font-size: 14px; display: none;
+}
+.details-unsupported > a {
+	text-decoration: underline;
+}
+.details-unsupported > a:hover {
+	color: rgb(209, 232, 250);
+}
+.windows-logo {
+	background: url("../images/windows-logo.png") no-repeat 0px bottom; width: 16px; height: 15px; margin-right: 6px; vertical-align: text-bottom; display: inline-block;
+}
+.unsupported-os .download {
+	display: none;
+}
+.download {
+	margin: 0px 0px 10px; padding: 10px 17px; border-radius: 3px; transition:0.2s ease-in-out; line-height: 24px; font-size: 18px; font-weight: normal; display: inline-block; position: relative; z-index: 10; background-color: rgb(113, 188, 34); -webkit-transition: all 0.2s ease-in-out 0s; -moz-transition: all 0.2s ease-in-out 0s;
+}
+.download > span {
+	vertical-align: top; display: inline-block;
+}
+.download-icon {
+	background: url("../images/download.png") no-repeat center; margin: 3px 11px 4px 0px; width: 21px; height: 21px; text-indent: -9999px;
+}
+.download:hover {
+	background-color: rgb(121, 205, 34);
+}
+.screenshot {
+	margin: 0px; padding: 63px 0px 0px; text-align: center; color: rgb(255, 255, 255); overflow: hidden; position: relative; background-color: rgb(53, 146, 221);
+}
+.screen1 {
+	height: auto; margin-bottom: -1px; display: inline-block; max-width: 95%;
+}
+.features {
+	padding: 100px 0px 0px; text-align: center; color: rgb(255, 255, 255); overflow: hidden; position: relative; background-color: rgb(40, 40, 40);
+}
+.features > .feature {
+	margin-right: auto; margin-left: auto; position: relative; max-width: 980px;
+}
+.feature > .details {
+	color: rgb(221, 221, 221); line-height: 25px; font-size: 18px; font-weight: 300; margin-bottom: 1.5em;
+}
+.features-sidebar {
+	padding: 0px 30px; height: 543px; text-align: left; box-sizing: border-box;
+}
+.features .callout {
+	font-size: 43px;
+}
+.features-sidebar > .callout {
+	text-align: left; padding-top: 60px; margin-left: 0px; max-width: 350px;
+}
+.features-sidebar > .details {
+	max-width: 380px;
+}
+.sidebar-screenshot {
+	top: 0px; right: 0px; position: absolute;
+}
+.repo-create {
+	transform-origin: 0% 0%; top: 40px; right: -47px; position: absolute; -webkit-transform-origin: 0 0; -moz-transform-origin: 0 0;
+}
+.features > .section-wrapper {
+	background-color: rgb(31, 31, 31);
+}
+.features-sync {
+	overflow: hidden; padding-top: 110px;
+}
+.features-sync > .details {
+	margin: 0px auto; max-width: 780px;
+}
+.sync-screenshot-container {
+	margin: 0px auto; width: 996px; position: relative;
+}
+.sync-controls {
+	animation:sync-disable 8s ease-in-out infinite; left: 168px; top: 88px; position: absolute; -webkit-animation: sync-disable 8s infinite ease-in-out;
+}
+.sync-screenshot {
+	margin-top: 65px; margin-bottom: -4px;
+}
+.sync-animated-controls {
+	animation:hide-and-show 8s ease-in-out infinite; -webkit-animation: hide-and-show 8s ease-in-out 0s infinite;
+}
+.sync-spinner {
+	animation:sync-spin 8s linear infinite; top: 93px; right: 72px; position: absolute; -webkit-animation: sync-spin 8s linear 0s infinite;
+}
+.sync-meeter {
+	top: 117px; width: 830px; height: 4px; right: 0px; position: absolute; z-index: 100; background-color: rgb(229, 232, 234);
+}
+.sync-progress {
+	transform-origin: 0% 0%; animation:sync-progress 4s ease-in-out infinite; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute; z-index: 200; background-color: rgb(78, 166, 234); -webkit-transform-origin: 0 0; -moz-transform-origin: 0 0; -webkit-animation: sync-progress 4s ease-in-out 0s infinite;
+}
+.features-branches {
+	height: 530px; text-align: left; padding-top: 70px; padding-left: 550px; margin-top: 150px; box-sizing: border-box;
+}
+.features-branches > .callout {
+	text-align: left;
+}
+.features-branches > .details {
+	max-width: 390px;
+}
+.branches-screenshot {
+	left: 0px; top: 0px; position: absolute;
+}
+.branches-popover {
+	transform-origin: 0% 0%; left: 175px; top: 43px; position: absolute; -webkit-transform-origin: 0 0; -moz-transform-origin: 0 0;
+}
+.footer-download {
+	padding: 120px 0px 150px; text-align: center; color: rgb(255, 255, 255); background-color: rgb(33, 33, 33);
+}
+.notification {
+	padding: 44px 36px 50px; text-align: center; color: rgb(51, 51, 51); display: block; background-color: rgb(236, 242, 248);
+}
+.contact {
+	color: rgb(51, 51, 51); font-weight: 600;
+}
+.help .section {
+	padding-bottom: 60px;
+}
+.main {
+	margin: 0px auto; padding: 40px 0px 0px; max-width: 984px;
+}
+.release-notes .main {
+	max-width: 780px;
+}
+.help .main {
+	max-width: 780px;
+}
+.section-header {
+	margin: 0px 0px 24px; padding: 0px 0px 5px; text-align: left; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(255, 255, 255);
+}
+.section-header h2 {
+	font-size: 48px; font-weight: 100; margin-bottom: 10px;
+}
+.section-header p {
+	margin-top: 0px; margin-bottom: 10px;
+}
+p em {
+	font-weight: 600;
+}
+.unsupported-os .screenshot .callout {
+	display: none;
+}
+.screenshot .callout-unsupported {
+	display: none;
+}
+.unsupported-os .screenshot .callout-unsupported {
+	display: block;
+}
+.callout {
+	margin: 0px auto 24px; text-align: center; line-height: normal; font-family: "Segoe WP", "Segoe UI Light", "Segoe UI", "Helvetica Neue", "Arial", sans-serif; font-size: 36px; font-weight: 200; max-width: 840px;
+}
+.callout > .callout-details {
+	color: rgb(144, 193, 232);
+}
+#changelog {
+	margin: 40px 0px 0px; padding-bottom: 140px;
+}
+.releases {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.release-header {
+	margin: 0px 0px 10px; padding-bottom: 5px; font-size: 32px; font-weight: normal; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.release-name {
+	font-size: 32px; margin-right: 10px;
+}
+.release-date {
+	color: rgb(166, 166, 166); font-size: 16px; margin-top: 12px; float: right;
+}
+.releases > li {
+	margin: 0px 0px 60px 90px; position: relative;
+}
+.release-version {
+	left: -90px; color: rgb(166, 166, 166); font-size: 32px; display: block; position: absolute;
+}
+.change-label {
+	padding: 1px 8px; border-radius: 3px; right: 0px; color: rgb(255, 255, 255); font-size: 14px; font-style: normal; display: inline-block; position: absolute;
+}
+.change-label-container {
+	left: 0px; width: 80px; position: absolute;
+}
+.change-fixed {
+	background-color: rgb(66, 141, 201);
+}
+.change-improved {
+	background-color: rgb(147, 97, 204);
+}
+.change-added {
+	background-color: rgb(154, 196, 94);
+}
+.change-removed {
+	background-color: rgb(225, 140, 88);
+}
+.changes {
+	line-height: 1.6em; padding-top: 6px;
+}
+.changes > li {
+	list-style: none; padding-left: 100px; margin-bottom: 15px; position: relative;
+}
+.inner {
+	margin: 0px auto; position: relative; max-width: 984px;
+}
+.section ol {
+	padding-left: 2em;
+}
+.section ul {
+	padding-left: 2em;
+}
+.section ol li {
+	line-height: 2.3em; font-size: 18px;
+}
+.section ul li {
+	line-height: 2.3em; font-size: 18px;
+}
+.section ul li {
+	line-height: 2em; list-style-type: circle;
+}
+.section a {
+	color: rgb(65, 131, 196); text-decoration: none;
+}
+.footer {
+	margin: 0px auto; padding: 22px 0px; text-align: center; color: rgb(96, 96, 96); clear: both; font-size: 14px; position: relative; background-color: rgb(29, 29, 29);
+}
+.footer a {
+	transition:0.3s ease-in-out; color: rgb(119, 119, 119); text-decoration: none; -webkit-transition: all 0.3s ease-in-out 0s; -moz-transition: all 0.3s ease-in-out 0s;
+}
+.footer a:hover {
+	color: rgb(238, 238, 238);
+}
+.clearfix::before {
+	width: 0px; height: 0px; line-height: 0; overflow: hidden; font-size: 0px; display: block; visibility: hidden; content: ".";
+}
+.clearfix::after {
+	width: 0px; height: 0px; line-height: 0; overflow: hidden; font-size: 0px; display: block; visibility: hidden; content: ".";
+}
+.clearfix::after {
+	clear: both;
+}
+body.eula .main {
+	padding-bottom: 24px;
+}
+body.eula .main p {
+	margin: 0px 0px 15px; line-height: 1.5;
+}
+body.eula .main li {
+	line-height: 1.5; margin-bottom: 0.5em; list-style-position: inside;
+}
+body.eula .main h2 {
+	margin: 2em 0px 0.5em; font-size: 1.5em; font-weight: normal;
+}
+body.eula .main h1 {
+	margin: 0.5em 0px 1em;
+}
+body.eula .main a {
+	color: rgb(65, 131, 196); text-decoration: none;
+}
+@media screen and (max-width:480px)
+{
+.nav ul {
+	margin-left: 16px;
+}
+#page {
+	max-width: 100%;
+}
+.callout {
+	padding: 0px 40px; font-size: 16px; font-weight: 300; margin-bottom: 40px !important;
+}
+.features li {
+	width: 90%;
+}
+.notification {
+	line-height: 1.5em; font-size: 14px;
+}
+.section-header {
+	padding-left: 20px;
+}
+.section-header h2 {
+	font-size: 32px;
+}
+.help .main.column {
+	margin-bottom: 60px;
+}
+.section-header p {
+	margin: 12px 0px; line-height: 1.5em; font-size: 14px;
+}
+#changelog h2 {
+	padding-bottom: 5px; font-size: 14px; margin-bottom: 5px;
+}
+.release-version {
+	background: rgb(75, 163, 233); padding: 16px 0px; left: -60px; width: 45px; font-size: 14px;
+}
+.releases > li {
+	margin: 0px 5px 34px 60px; font-size: 14px;
+}
+.section ol li {
+	margin: 12px 0px; line-height: 1.4em; font-size: 15px;
+}
+.section ul li {
+	margin: 12px 0px; line-height: 1.4em; font-size: 15px;
+}
+.screen1 {
+	margin-bottom: -10px;
+}
+.screenshot {
+	padding-top: 40px;
+}
+.header {
+	padding: 12px 0px 10px;
+}
+.download {
+	display: none;
+}
+.version {
+	display: none;
+}
+.callout p {
+	margin: 0px 16px; text-align: left; font-size: 26px;
+}
+#changelog {
+	padding: 0px 0px 24px;
+}
+.inner {
+	width: 100%;
+}
+footer ul {
+	float: none;
+}
+}
+@media not all, not all, all and (min-resolution:300dpi)
+{
+h1 a {
+	background-image: url("../images/logo@2x.png"); background-size: 182px 21px;
+}
+.download-icon {
+	background-image: url("../images/download@2x.png"); background-size: 21px 21px;
+}
+.windows-logo {
+	background-image: url("../images/windows-logo@2x.png"); background-size: 16px 15px;
+}
+}
+body.samples pre {
+	background: rgb(55, 55, 55); padding: 1em; border-radius: 3px; color: white; margin-bottom: 1em; -ms-word-wrap: break-word;
+}
+body.samples .main.column {
+	padding-bottom: 40px;
+}
+body.samples .section {
+	margin-bottom: 2em;
+}
+body.samples p {
+	margin-bottom: 1em;
+}
+body.samples h2 {
+	font-size: 1.75em;
+}
+body.samples .section-header {
+	margin-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}

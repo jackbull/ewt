@@ -913,7 +913,7 @@ html {
 	font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-	color: rgba(61, 21, 101, 1); line-height: 1.4285; font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 18px; background-color: rgb(43, 62, 80);
+	color: rgb(235, 235, 235); line-height: 1.4285; font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 18px; background-color: rgba(61, 21, 101, 1);
 }
 input {
 	line-height: inherit; font-family: inherit; font-size: inherit;

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>渗血1晚痛的幕后故事 - 牛牛志</title>
+ <meta name="HandheldFriendly" content="True"/>
+<link rel="stylesheet" href="../ewt/stylesheets/deep.css" />
+</head>
+<body><div class="container">
+</head>
+<body>
+<p align="right"><a href="../ewt"><img src="http://storage.live.com/items/94d800283f3c6ada!10440?logo.png" alt="渗血1晚痛" /></a></p>
+<h1 id="L......">前言</h1>
+
+<p>是这样的。从班会课罗红英落力推销「升学e网通」的那天起，我就<code>一直耿耿于怀</code>。我说，今天还有什么「软件」能够卖到200元？我卡巴斯基都可以买到三年了。更何况这只不过是一个网页上的查询系统。这不科学。</p>
+
+<h1 id="L...........................">知己知彼，百战不殆</h1>
+
+<p>碍于罗红英看似买不买由你实则非买不可的推销艺术，我曾一度天真地以为那是PC上的一个客户端，直到我打开官网发现并没有客户端什么的可供下载。</p>
+
+<p>E网通还挺神秘，没有会员卡，还不能注册。不能注册，连看都没法看。</p>
+
+<p>我唯有滚去看他提供的演示视频。</p>
+
+<p>我忍住解说那把没钱买好一点的话筒录出来刺耳无比的声音，发现他所演示的无非就是<code>按分数查学校</code>、<code>按专业查学校</code>、<code>按学校查学校</code>，顶多就是他极力推销的<code>按位次查学校</code>也就是排名。</p>
+
+<p>这完全不值200块啊！其实国内各大门户网站都有比较齐全的高校信息库，比如说新浪。我看着新浪的网页还是老样子，以为它已经不更新了。其实它也走上了收费的道路。可人家的志愿通卡才108块，凭什么你卖到200？</p>
+
+<p>跟同宿舍三班的一个同学交流的时候，他说到他之所以买是看中了E网通可以看到高校不同专业录取的最高分、平均分、录取人数。我想说，除了录取人数，往年的各专业分数也是随便抓一大把。</p>
+
+<p>再来说说E网通方面极力推销如何如何科学的<code>按位次查学校</code>功能。个人认为用处不大，跟<code>按分数查学校</code>一个样。因为历次模拟你都没有看到过全省的排名，你也没有参加过往年的高考，自然也没有你的全省排名，无从比较。就算有，也和看分数一样。</p>
+
+<p>唯一看不到的就是他的「模拟填报」功能。这也是200块1次的那个功能。我猜就是在你选好学校专业后帮你生成志愿表，仅此而已。而这一功能在哪里都是要收费的，就姑且放过他。</p>
+
+<h1 id="L......1......">渗血1晚痛</h1>
+
+<p>牛牛志集结全身细胞，调用新浪教育、人民网以及E网通本身的数据，推出免费版「渗血1晚痛」，叫那些准备交200块的同学扼腕痛心吧。</p>
+
+<h2 id="L.................................">按分数查学校？没问题！</h2>
+
+<h2 id="L.................................">按专业查学校？没问题！</h2>
+
+<h2 id="L.................................">按学校查学校？没问题！</h2>
+
+<h2 id="L.................................">按位次查学校？没问题！</h2>
+
+<img src="http://ww4.sinaimg.cn/large/a15b4afegw1erpqbavd2tj208o01wgll" alt="新浪" />
+
+<p>只是新浪推出了「志愿通」卡，就开始限制免费查询次数。只要用新浪帐号或微博账号登陆就可以免费查询4次，你只要多注册几个小号，就等于有无限次的查询机会了。</p>
+
+<p>「渗血1晚痛」是永久免费的！戳我就到：</p>
+
+<p>-><a href="../ewt360.html"><img src="http://storage.live.com/items/94d800283f3c6ada!10440?logo.png" alt="渗血1晚痛" /></a><-</p>
+
+<p>当然土豪用户可以通过支付宝打赏一下我:</p>
+
+<p>第一步：通过手机支付宝转账 0.5-199.9 元人民币到支付宝账号<code>jackbull6@sina.com</code></p>
+
+<p>第二步：将支付宝账单中显示的交易号发送到 <code>jackbull6@sina.com</code></p>
+
+<p>第三步：我会验证支付宝交易号，完成打赏。</p>
+
+<h1 id="L...............">另一种思路</h1>
+
+<p>我也在努力激活自己的账号。</p>
+
+<p>在电脑版的网页，我找不到验证激活的JS。而在手机版，我就翻出了他的JS。他们代码的注释还在，直接告诉我他们的会员卡号是12位的，激活码是16位的，认证码是18位的。</p>
+
+<p>之后就是一个ajax的后台验证。在/Default/CheckCardNoType验证后会把<code>data.Code</code>赋值为4，就会成功激活。</p>
+
+<p>关键是我<del>不了解后台验证啊</del>懒。想进一步找个抓包软件Fiddler，却发现自己不仅没有JAVA环境，.Net3.5也没装。好吧，那就姑且放过你吧。（说这么多，我无非就是想装装X，现在目的达到了，撤了）</p>
+
+<p>其实还有另一种思路。你们买了的卡激活以后把卡号报给吕东权，让他用合情推理归纳推理演绎推理把卡号公式推理出来就好了。</p>
+
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="Jackbull" data-title="Jackbull's Home" data-url="http://jackbull.chinacloudsites.cn/"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"jackbullclouds"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script></div>
+<!-- 多说公共JS代码 end -->
+
+</SECTION><FOOTER class="footer">
+<P><A href="../index.html">牛牛志</A> - © 2015 <A href="../ewtmd.html">渗血1晚痛</A> 
+Inc. All rights reserved.</P>
+<!-- 统计 start -->
+<small><script src="http://s11.cnzz.com/stat.php?id=1254405360&web_id=1254405360" language="JavaScript"></script></small>
+<P>
+<!-- 统计 end --></FOOTER>
+
+</body>
+</html>
+

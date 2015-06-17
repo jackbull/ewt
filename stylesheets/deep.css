@@ -4,7 +4,7 @@
 	src: url(../font/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(../font/glyphicons-halflings-regular.woff) format("woff"), url(../font/glyphicons-halflings-regular.ttf) format("truetype"), url(../font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg");
 }
 html {
-	font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+	font-family:'PT serif',\5FAE\8EDF\6B63\9ED1\9AD4,\5FAE\8F6F\96C5\9ED1,\534E\6587\7EC6\9ED1,Microsoft Yahei,Hiragino Sans GB,sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
 }
 body {
 	margin: 0px;
@@ -25,7 +25,7 @@ figure {
 	display: block;
 }
 footer {
-	display: block;
+	font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; display: block; font-size-adjust: inherit; font-stretch: inherit;
 }
 header {
 	display: block;

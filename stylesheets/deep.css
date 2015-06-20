@@ -944,6 +944,7 @@ figure {
 }
 img {
 	vertical-align: middle;
+	width: 100%
 }
 .img-responsive {
 	height: auto; display: block; max-width: 100%;

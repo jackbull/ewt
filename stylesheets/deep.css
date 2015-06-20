@@ -1,8 +1,4 @@
-@import url( http://fonts.useso.com/css?family=Lato:300,400,700 );
-@font-face {
-	font-family: Glyphicons Halflings;
-	src: url(../font/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(../font/glyphicons-halflings-regular.woff) format("woff"), url(../font/glyphicons-halflings-regular.ttf) format("truetype"), url(../font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg");
-}
+
 html {
 	font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
 }
@@ -34,7 +30,7 @@ figure {
     position: relative;
     background-color: rgba(74, 25, 123, 1);
 }
-.header{
+.nav-header{
     background-color: rgba(74, 25, 123, 1);
     text-align: center;
     color: rgba(235, 235, 235, 1);

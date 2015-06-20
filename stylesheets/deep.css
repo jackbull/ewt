@@ -25,11 +25,23 @@ figure {
 	display: block;
 }
 .footer {
-	margin: 0px auto; padding: 22px 0px; text-align: center; color: rgb(96, 96, 96); clear: both; font-size: 14px; position: relative; background-color: rgb(29, 29, 29);
+    margin: 0px auto;
+    padding: 22px 0px;
+    text-align: center;
+    color: rgba(78, 93, 108, 1);
+    clear: both;
+    font-size: 14px;
+    position: relative;
+    background-color: rgba(74, 25, 123, 1);
 }
-header {
-	text-align: center; clear: both; font-size: 26px; position: relative; background-color: rgb(29, 29, 29);
+header{
+    background-color: rgba(74, 25, 123, 1);
+    text-align: center;
+    color: rgba(235, 235, 235, 1);
+    padding: 10px;
+    font-size: 22px;
 }
+
 hgroup {
 	display: block;
 }
@@ -928,7 +940,7 @@ textarea {
 	line-height: inherit; font-family: inherit; font-size: inherit;
 }
 a {
-	color: rgb(91, 192, 222); text-decoration: none;
+	color: rgba(15, 199, 255, 1); text-decoration: none;
 }
 a:hover {
 	color: rgb(49, 176, 213); text-decoration: underline;
